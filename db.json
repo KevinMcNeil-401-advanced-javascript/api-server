@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Video Games",
+      "display_name": "Games",
+      "description": "Video Games",
+      "id": 1
+    },
+    {
+      "name": "Music",
+      "display_name": "Music",
+      "description": "Thats Muh JAM!",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Game Boy",
+      "display_name": "GAME BOY",
+      "description": "Plays cool video games",
+      "id": 2,
+      "category": "Video Games"
+    },
+    {
+      "name": "Nintendo Entertainment System",
+      "display_name": "NES",
+      "description": "Plays cool video games",
+      "id": 3,
+      "category": "Video Games"
+    },
+    {
+      "name": "Nintendo 64",
+      "display_name": "N64",
+      "description": "Plays cool video games",
+      "id": 4,
+      "category": "Video Games"
+    }
+  ]
+}
