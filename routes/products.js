@@ -3,7 +3,6 @@
 const express = require('express');
 const router = express.Router();
 const prod = require('../lib/models/products/products.collections.js');
-//app.use(express.json(), express.urlencoded({extended: true}), timestamp, logger);
 
 router.post('/products', (req, res) => {res.send(req.body)});
 router.get('/products', (req, res) => {res.send(req.body)});
